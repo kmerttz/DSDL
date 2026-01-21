@@ -1,0 +1,8 @@
+uint8 motor_id
+float32 rpm_raw
+float32 rpm_filtered
+float16 temperature
+float16 voltage
+float16 current
+float16[3] vibration
+float16[3] acceleration
